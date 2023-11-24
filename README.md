@@ -1,5 +1,7 @@
 # Medical Data Visualizer
 
+![image](https://github.com/Munchkinland/Medical-data-visualizer/assets/92251234/4f014139-d036-4548-9b07-4dabb4cc3b43)
+
 Medical Examination Data Analysis
 This repository contains Python code to perform analysis on medical examination data. The dataset used is stored in the "medical_examination.csv" file.
 
